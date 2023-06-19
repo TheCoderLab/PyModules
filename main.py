@@ -1,3 +1,3 @@
 import squareroot2py
 
-print(squareroot2py.take_square_root_of_2())
+print(squareroot2py.compute_square_root_of_2())
